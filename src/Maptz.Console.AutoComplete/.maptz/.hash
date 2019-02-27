@@ -1,0 +1,17 @@
+
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.AutoComplete\Concepts\AutoComplete\AutoCompleteSettings.cs-a3bda3e22fddae9da73efdb24b0143d3
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.AutoComplete\Concepts\AutoComplete\IAutoCompleteConsoleContext.cs-80c9bedd6e06abb48068114385bb58c7
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.AutoComplete\Concepts\SuggestionProvider\ISuggestionProvider.cs-f92fcf864ead026d749c9d496945d231
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.AutoComplete\Implementations\AutoComplete\AutoCompleteConsoleContext.cs-66d19efc0bc8e8bcd4f059198b51db44
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.AutoComplete\Implementations\SuggestionProvider\DynamicSuggestionsProvider.cs-975b7e3e7539696a6aecf52fab4f43f4
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.AutoComplete\Implementations\SuggestionProvider\StaticSuggestionsProvider.cs-1e77439043b3a9c99de62e885c735d16
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.AutoComplete\Maptz.Console.AutoComplete.csproj-2ded76c0246aeb2ce08c5093c3a5dd55
+
+DEPENDENCY:X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Context\Maptz.Console.Context.csproj
+
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Context\Concepts\ConsoleContext\IConsoleContext.cs-7961b867e1d70af5f18ae327f16bb6ad
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Context\Implementations\ConsoleContext\ConsoleContext.cs-02fec25810911439fab327f4c088c39a
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Context\Maptz.Console.Context.csproj-60c91898b6388934bb8954f43e5dd96f
+
+
+END_DEPENDENCY:X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Context\Maptz.Console.Context.csproj
