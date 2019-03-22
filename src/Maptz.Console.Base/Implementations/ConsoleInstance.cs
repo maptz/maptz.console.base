@@ -13,14 +13,14 @@ namespace Maptz
         {
             var store = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.Write(str);
+            Console.Error.Write(str);
             Console.ForegroundColor = store;
         }
         public void WriteErrorLine(string str)
         {
             var store = Console.ForegroundColor;
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine(str);
+            Console.Error.WriteLine(str);
             Console.ForegroundColor = store;
         }
         public void WriteLine(string str)
