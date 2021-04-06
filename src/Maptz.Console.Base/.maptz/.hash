@@ -1,5 +1,7 @@
 
 X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Base\Concepts\IConsoleInstance.cs-686f124fb6a9e21be1778efbb4102f1b
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Base\Concepts\IOutputWriter.cs-91a4e3c1073894fdacf08b60d6379df3
 X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Base\Implementations\ConsoleInstance.cs-8eb48bc8c4b67b57e7250a3d42fbae01
-X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Base\Maptz.Console.Base.csproj-bd26d18b0f0e47c3e66cb63e87f2a7c5
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Base\Implementations\OutputWriter.cs-6f996e4176882b6ce143fe93934c0108
+X:\+++DEV\MaptzGitHub\netcorelibs\maptz.console.base\src\Maptz.Console.Base\Maptz.Console.Base.csproj-3718000a0367750a3b2121c5d22eb41e
 
